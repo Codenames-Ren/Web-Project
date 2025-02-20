@@ -230,7 +230,7 @@ input {
 }
 
 .overlay {
-  background-image: url("/login_form/assets/overlay_bg.gif");
+  background-image: url("../assets/overlay_bg.gif");
   /* background: linear-gradient(to right, #4bb6b7, #4bb6b7); */
   background-repeat: no-repeat;
   background-size: cover;
